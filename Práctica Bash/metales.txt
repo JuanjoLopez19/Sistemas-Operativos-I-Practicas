@@ -1,0 +1,12 @@
+[S�mbolo qu�mico] [Nombre del metal] [N�mero at�mico] [Resistividad el�ctrica en Ohmio mm2 / m] [T� de fusi�n (K)] [Masa at�mica (uma)]
+
+Ti Titanio 22 0.42 1941 47.87 
+Ag Plata 47 0.016 1233 107.87
+Sn Esta�o 50 0.13 903.2 118.71
+Fe Hierro 26 0.1 1808 55.84
+Au Oro 79 0.022 1337.58 196.97
+Pb Plomo 82 0.21 600.65 207.2
+Cu Cobre 29 0.0172 1357.77 63.53
+Al Aluminio 13 0.028 933.47 26.98
+W Wolframio 74 0.053 3695 183.84
+
